@@ -1,0 +1,31 @@
+Feature,Score,P_Value
+numerical__tenure,763.8901825832717,8.634919746747197e-158
+categorical__InternetService_Fiber optic,610.1999220658564,5.320291130175131e-128
+categorical__PaymentMethod_Electronic check,595.4244905512516,4.2556259139114865e-125
+categorical__Contract_Two year,566.070664028231,2.6131280236256363e-119
+categorical__StreamingMovies_No internet service,311.4902381709771,6.768640541917745e-68
+categorical__TechSupport_No internet service,311.4902381709771,6.768640541917745e-68
+categorical__DeviceProtection_No internet service,311.4902381709771,6.768640541917745e-68
+categorical__OnlineBackup_No internet service,311.4902381709771,6.768640541917745e-68
+categorical__OnlineSecurity_No internet service,311.4902381709771,6.768640541917745e-68
+categorical__InternetService_No,311.4902381709771,6.768640541917745e-68
+categorical__StreamingTV_No internet service,311.4902381709771,6.768640541917745e-68
+numerical__MonthlyCharges,229.90382267903345,6.2665978415148e-51
+categorical__PaperlessBilling_Yes,229.76109906619845,6.71331660522453e-51
+numerical__TotalCharges,219.6914563446524,8.687710192472636e-49
+categorical__Contract_One year,187.43395081210286,5.397064639873814e-42
+categorical__OnlineSecurity_Yes,177.05152929322375,8.4695580804913e-40
+categorical__Dependents_Yes,162.49241715510666,1.0344202838295411e-36
+categorical__TechSupport_Yes,159.04497796882941,5.5846234999632234e-36
+categorical__Partner_Yes,122.18063278957457,4.093526577260074e-28
+numerical__SeniorCitizen,121.97960838863723,4.520304903116121e-28
+categorical__PaymentMethod_Credit card (automatic),108.983392649828,2.780504733796539e-25
+categorical__PaymentMethod_Mailed check,45.284667215739915,1.8726575853961722e-11
+categorical__OnlineBackup_Yes,38.52789836423058,5.783039210913104e-10
+categorical__StreamingTV_Yes,29.674596726659043,5.326772684625901e-08
+categorical__StreamingMovies_Yes,23.007980903565066,1.6548717039420164e-06
+categorical__DeviceProtection_Yes,21.469349610502302,3.6762942464441586e-06
+categorical__MultipleLines_Yes,10.808668129034073,0.0010164543140323324
+categorical__MultipleLines_No phone service,1.8108026769035157,0.17846614049373424
+categorical__PhoneService_Yes,1.8108026769032783,0.17846614049373424
+categorical__gender_Male,0.02744687719270381,0.8684218229095126

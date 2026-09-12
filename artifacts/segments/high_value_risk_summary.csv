@@ -1,0 +1,5 @@
+TenureSegment,ChargeSegment,Contract,At_Risk_Customers,Average_Monthly_Charge,Segment_Churn_Rate
+0-12 Months,High,Month-to-month,49,95.87857142857143,77.1
+0-12 Months,Medium-High,Month-to-month,2,89.85,67.39
+13-24 Months,High,Month-to-month,79,96.93924050632911,56.11
+25-48 Months,High,Month-to-month,164,98.40518292682927,43.64
