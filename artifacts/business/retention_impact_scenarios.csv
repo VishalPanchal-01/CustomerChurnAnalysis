@@ -1,0 +1,4 @@
+Retention_Effectiveness,Expected_Churn_Prevented,Expected_Churn_Rate_Before,Expected_Churn_Rate_After,Expected_Churn_Rate_Reduction,Expected_Monthly_Revenue_Protected,Expected_Annual_Revenue_Protected
+10.0,96.29,31.7,29.84,1.86,7339.94,88079.33
+20.0,192.58,31.7,27.98,3.72,14679.89,176158.66
+30.0,288.86,31.7,26.11,5.58,22019.83,264237.99
